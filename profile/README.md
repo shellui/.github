@@ -1,5 +1,7 @@
 # 👋 Welcome to ShellUI
 
-ShellUI is a lightweight, framework-agnostic microfrontend shell to help teams ship apps faster.  
-Start here: [Main Repo](https://github.com/shellui) · [Website](https://shellui.com) · [Playground](https://playground.shellui.com)  
-Dev note: `v0.2.0` is experimental — see [Docs](https://docs.shellui.com) for setup with `@shellui/cli`, `@shellui/core`, and `@shellui/sdk`.
+ShellUI is an advanced, framework-agnostic microfrontend framework built for complex, high-performance applications.
+
+It brings smart layout systems, modular navigation, theming, i18n, and rich UI capabilities to large-scale product teams.
+
+Explore [Main Repo](https://github.com/shellui) · [Website](https://shellui.com) · [Playground](https://playground.shellui.com) · [Docs](https://docs.shellui.com) (`v0.2.0` experimental).
